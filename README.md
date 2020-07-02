@@ -82,7 +82,7 @@ training time.
 13. After removing all the correlated features of C and D and then train
 models for Logistic Regression it gave train_AUC=0.8668 and
 CV_AUC=0.8362 , and for LGBMClassifier it gave train_AUC=0.9032
-and cv_AUC=0.8819
-14.So it shows that removing the correlated features did not change the
+and cv_AUC=0.8819.
+14. So it shows that removing the correlated features did not change the
 performance of model very much but reduces the training time much.
 
